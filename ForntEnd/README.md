@@ -1,17 +1,14 @@
-# FrontEnd ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# FrontEnd ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-En este folder encontraremos los archivos que dan estilo a la aplicación web, incluyendo tipografia, colores, dimensiones y animaciones de interacción.
+En este apartado se ubicaran los archivos que dan forma y estilo al sitio web estatico.
 
 ## Estructura de Archivos
 
 
 >Integradora-NombreProyecto<br>
->| - Backend <br>
->| - Database<br>
 >| -Documentation<br>
 >**| - FrontEnd**<br>
->&nbsp;&nbsp;|-Assets<br>
->&nbsp;&nbsp;|-CSS<br>
+>| - Backend <br>
 
 ## Equipo de Desarrollo
 
