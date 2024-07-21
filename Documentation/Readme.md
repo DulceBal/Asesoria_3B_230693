@@ -5,16 +5,11 @@ En esta sección se ubicaran los archivos de respaldo el ánalisis previo al dis
 ## Estructura de archivos
 
 
-<<<<<<< HEAD
->Integradora-Asesria
->| - Documentation** <br>
-=======
 >Integradora-Asesoria <br>
 >**| - Documentation** <br>
->>>>>>> c7d31d1e62559a7078b6d69ee81bb9a66deafcd4
 >| - Frontend <br>
 >| - Backend <br>
->**| - Frontend**
+>| - Frontend
 
 ## Equipo de Desarrollo
 
