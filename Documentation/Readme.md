@@ -4,10 +4,6 @@ En esta sección se ubicaran los archivos de respaldo el ánalisis previo al dis
 
 ## Estructura de archivos
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 3d4f844401fbf94a36274fcffa0b6fea5278ad1f
 >Integradora-Asesoria <br>
 >**| - Documentation** <br>
 >| - Frontend <br>
