@@ -14,7 +14,7 @@ En esta sección se ubicaran los archivos de respaldo el ánalisis previo al dis
 
    |Integrante|Contacto|Rol|Observaciones|
    |----------|--------|---|-------------|
-   |Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Lider de  Desarrollo Frontend|✅ Revisado y aprobado.|
-   |Jonatan  Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Lider de desarrollo Frontend|😔 Sin comentar|
-   |Carlos Isaac Fosado Escudero|[@Carlosfosadoo](https://github.com/CarlosFosadoo)|Desarrollador Frontend|😔 Sin comentar|
+   |Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Lider de Documentación|✅ Revisado y aprobado.|
+   |Jonatan  Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Documentador|😔 Sin comentar|
+   |Carlos Isaac Fosado Escudero|[@Carlosfosadoo](https://github.com/CarlosFosadoo)|Documentador|😔 Sin comentar|
   
